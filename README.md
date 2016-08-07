@@ -1,2 +1,2 @@
 # what-is-the-weather
-iOS Weather Application
+Fully Functional iOS 9 Weather Application
